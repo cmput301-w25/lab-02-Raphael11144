@@ -3,12 +3,13 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `<Ethan Chen>`
+- **CCID:** `<yusheng9>`
 
 ## References and Resources
 
 List any resources used here, or simply put `N/A` if not applicable.
+String cityName = text_add.getText().toString(); is from chatGpt, "if i have a pain text how do i get the text in the pain text", 2025/01/16.
 
 ## Verbal Collaboration
 
